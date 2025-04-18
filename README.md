@@ -62,9 +62,9 @@ The dashboard is divided into **two interactive pages**, showcasing visual insig
 ## 👩‍💻👨‍💻 Authors
 
 - **Vaishnavi Nikumbh** (2124UMLF2020)  
-  [LinkedIn](https://www.linkedin.com/in/vansh-badjate1008/)
+  [LinkedIn](https://www.linkedin.com/in/vaishnavi-nikumbh/)
 
 - **Vansh Badjate** (2124UMLM2022)  
-  [LinkedIn](https://www.linkedin.com/in/vaishnavi-nikumbh/)
+  [LinkedIn](https://www.linkedin.com/in/vansh-badjate1008/)
 
 
